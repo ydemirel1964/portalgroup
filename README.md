@@ -1,1 +1,1 @@
-PortalGroup laravel ile müşteri yönetim sistemi
+PortalGroup laravel ile müşteri yönetim sistemi (İşe Giriş Projesi)
